@@ -44,6 +44,11 @@ The dishy is mounted with the tripod on top of a metal pole that is in turn moun
     * Obstructed: 7 seconds
     * Other Outages: 1 minute
 
+- 2021-07-18T00:00 Last 12 Hours
+    * Obstructed: 3 seconds
+    * Other Outages: 9 seconds
+
+
 
 ### Long term setup.
 
