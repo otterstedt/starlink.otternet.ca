@@ -1,4 +1,4 @@
-# starlink.otternet.ca
+# [starlink.otternet.ca](http://starlink.otternet.ca)
 Information about my starlink experience, with statistics and monitoring information etc.
 
 ## Location
@@ -8,7 +8,7 @@ Latitude: 45.64
 
 ## Background
 
-During the work from home period 2020-2021 the vacation home and apartment switched roles. Unfortunately the chalet did not have any other option than 5/1 Mbps ADSL connection from [Bell](http://www.bell.ca) phone lines. The subscription is through [Virgin](https://www.virginmobile.ca/en/home/index.html), $30 per line per month. 2 Lines with a [TL-R470T+ load balancer](https://www.tp-link.com/us/business-networking/load-balance-router/tl-r470t+/). There is a nearby Bell tower that can deliver 200+ Mbps but neither my wallet nor my company phone manager would accept that as primary network access.
+My home does not have any other option than 5/1 Mbps ADSL connection from [Bell](http://www.bell.ca) phone lines. The subscription is through [Virgin](https://www.virginmobile.ca/en/home/index.html), $30 per line per month. 2 Lines with a [TL-R470T+ load balancer](https://www.tp-link.com/us/business-networking/load-balance-router/tl-r470t+/). There is a nearby Bell tower that can deliver 200+ Mbps but neither my wallet nor my company phone manager would accept that as primary network access.
 
 The ADSL lines work pretty well to load balance and [fast.com](http://fast.com) can sometimes max it at 11-12 MBps which means that [Virgin](https://www.virginmobile.ca/en/home/index.html) usually deliver the posted speed for the plan and sometimes even more. The bad thing is that you need to call them every time the line goes bad and they will reconfigure the connection.
 
@@ -54,3 +54,8 @@ Same place, new pole and mounting. Metal pole with the [Starlink pipe adapter](h
 - Starlink Internet
 - Starlink Router
 - ASUS Router
+
+## [Monitoring & Statistics](./network/statistics)
+My [Starlink monitoring & statistics](./network/statistics) setup
+
+[Public Starlink Statistics Dashboard](https://grafana.otternet.ca/d/ymkHwLaMz/)
