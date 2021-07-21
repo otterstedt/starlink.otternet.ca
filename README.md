@@ -31,11 +31,15 @@ There are some trees that is blocking to the west/north. The starlink status pag
 
 ### Initial test setup
 
+2021-07-13
+
 Placed the Dishy with the tripod in the garden, some tomato plant obstructions. 
 
 Initial speed test: 120 MBps
 
 ### Temporary setup
+
+2021-07-15
 
 The dishy is mounted with the tripod on top of a metal pole that is in turn mounted in an [Oasis tripod](http://www.satelliteoasis.com/2-in-od-satellite-dish-tripod-for-directv-slimline-hd-dish/). Placed in the garden corner next to the tomato plants.
 
@@ -52,7 +56,17 @@ The dishy is mounted with the tripod on top of a metal pole that is in turn moun
 
 ### Long term setup.
 
-Same place, new pole and mounting. Metal pole with the [Starlink pipe adapter](https://shop.starlink.com/products/ca-consumer-mount-pipeadapter-grey) in the [Oasis tripod](http://www.satelliteoasis.com/2-in-od-satellite-dish-tripod-for-directv-slimline-hd-dish/).
+2020-07-19
+
+Same place, new mounting. Metal pole with the [Starlink pipe adapter](https://shop.starlink.com/products/ca-consumer-mount-pipeadapter-grey) in the [Oasis tripod](http://www.satelliteoasis.com/2-in-od-satellite-dish-tripod-for-directv-slimline-hd-dish/).
+
+#### Connectivity status:
+- 2021-07-20T17:00:00 Last 12 Hours
+    * Obstructed: 2 minutes
+    * Other Outages: 3 minutes
+
+#### Observations
+It seems the dish reset some "knowledge" after reboot. Obstructions went up after restart at a slightly higher altitude of the Dishy.
 
 ## [Network](./network)
 - Virgin ADSL 5/1 Mbps
