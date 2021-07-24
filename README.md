@@ -1,11 +1,17 @@
 # [starlink.otternet.ca](http://starlink.otternet.ca)
+
 Information about my starlink experience, with statistics and monitoring information etc.
 
+Some headers are clickable links to separate pages.
+
+---
+Overview
 * [Location](#Location)
 * [Background](#Background)
 * [Dishy Placement](#Dishy-Placement)
 * [Network](#Network)
 
+---
 ## Location
 Eastern Townships, Quebec, Canada.
 
