@@ -1,6 +1,11 @@
 # [starlink.otternet.ca](http://starlink.otternet.ca)
 Information about my starlink experience, with statistics and monitoring information etc.
 
+* [Location](#Location)
+* [Background](#Background)
+* [Dishy Placement](#Dishy-Placement)
+* [Network](#Network)
+
 ## Location
 Eastern Townships, Quebec, Canada.
 
@@ -22,7 +27,8 @@ One ADSL line will be kept as failover until Starlink is proven reliable for ful
 ```
 ### Virgin Decomission Timeline
 ```
-TODO 
+2021-07-20: 
+Called to check which of the ADSL lines is more reliable and faster. Plans paid for until Aug 6.
 ```
 
 ## [Dishy Placement](./placement/)
@@ -66,7 +72,7 @@ Same place, new mounting. Metal pole with the [Starlink pipe adapter](https://sh
     * Other Outages: 3 minutes
 
 #### Observations
-It seems the dish reset some "knowledge" after reboot. Obstructions went up after restart at a slightly higher altitude of the Dishy.
+It seems the dish reset some "knowledge" after reboot. Obstructions went up after restart even though a slightly higher altitude of the Dishy. The obstructions image from the Dishy statistics shows a bit less red obstructions than before.
 
 ## [Network](./network)
 - Virgin ADSL 5/1 Mbps
@@ -77,4 +83,4 @@ It seems the dish reset some "knowledge" after reboot. Obstructions went up afte
 ## [Monitoring & Statistics](./network/statistics)
 My [Starlink monitoring & statistics](./network/statistics) setup
 
-[Public Starlink Statistics Dashboard](https://grafana.otternet.ca/d/ymkHwLaMz/)
+My [Starlink Dashboard](https://grafana.otternet.ca/d/ymkHwLaMz/)

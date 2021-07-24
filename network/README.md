@@ -1,14 +1,21 @@
 # The Network
 
+* [WAN](#WAN)
+    * [ADSL](#ADSL)
+    * [Starlink](#Starlink)
+* [LAN](#LAN)
+    * [ADSL LAN](#ADSL-LAN)
+    * [Starlink LAN](#Starlink-LAN)
+
 ## WAN
 
 ### ADSL
 
-2 * Virgin Plus ADSL 5/1 Mbps. CAD $30
+2 * Virgin Plus ADSL 5/1 Mbps. CAD $30/month
 
 ### Starlink
 
-Dishy with Starlink router. CAD $129
+Dishy with Starlink router. CAD $129/month
 
 [My monitoring setup](./statistics/)
 
