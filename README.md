@@ -9,6 +9,8 @@ Overview
 * [Location](#Location)
 * [Background](#Background)
 * [Dishy Placement](#Dishy-Placement)
+* [Observations](#Observations)
+* [Firmware](#Firmware)
 * [Network](#Network)
 
 ---
@@ -55,6 +57,8 @@ Initial speed test: 120 MBps
 
 The dishy is mounted with the tripod on top of a metal pole that is in turn mounted in an [Oasis tripod](http://www.satelliteoasis.com/2-in-od-satellite-dish-tripod-for-directv-slimline-hd-dish/). Placed in the garden corner next to the tomato plants.
 
+Started to collect [metrics](./network/statistics) from the Dishy API
+
 #### Connectivity status:
 - 2021-07-18T00:00 Last 12 Hours
     * Obstructed: 7 seconds
@@ -77,8 +81,23 @@ Same place, new mounting. Metal pole with the [Starlink pipe adapter](https://sh
     * Obstructed: 2 minutes
     * Other Outages: 3 minutes
 
-#### Observations
+- 2021-07-28T23:00:00 Last 12 Hours
+    * Obstructed: 28 seconds
+    * Other Outages: 40 seconds
+
+## Observations
 It seems the dish reset some "knowledge" after reboot. Obstructions went up after restart even though a slightly higher altitude of the Dishy. The obstructions image from the Dishy statistics shows a bit less red obstructions than before.
+
+## Firmware
+
+* __e825ab2c-1e21-4e24-bc77-6ffe80e76669.uterm.release__ 2021-07-28 02:57:59
+    - Interruptions dropped significantly
+* __6390f89c-448c-4fe6-8e1c-14708993ef7c.uterm.release__ 2021-07-26 18:41:54
+* __2bc83694-2dec-48c8-9061-88b86cdd5d89.uterm.release__ 2021-07-21 22:38:26
+    - Interruptions increased
+* __4990ce8d-5028-4e51-a015-e9ab1b1ebe1a.uterm.release__
+2021-07-15 22:01:31
+    - Initial firmware version
 
 ## [Network](./network)
 - Virgin ADSL 5/1 Mbps
@@ -89,4 +108,4 @@ It seems the dish reset some "knowledge" after reboot. Obstructions went up afte
 ## [Monitoring & Statistics](./network/statistics)
 My [Starlink monitoring & statistics](./network/statistics) setup
 
-My [Starlink Dashboard](https://grafana.otternet.ca/d/ymkHwLaMz/)
+My [Starlink Dashboard](https://grafana.otternet.ca/d/ymkHwLaMz/) (Live data)
