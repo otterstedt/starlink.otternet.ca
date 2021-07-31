@@ -37,6 +37,9 @@ One ADSL line will be kept as failover until Starlink is proven reliable for ful
 ```
 2021-07-20: 
 Called to check which of the ADSL lines is more reliable and faster. Plans paid for until Aug 6.
+
+2021-07-26:
+Cancelled one of the two plans I have. They sent me to "loyalty department" and they asked why I wanted to cancel. Explained I got Starlink, not much of a discussion. They confirmed the cancellation. Still keeping one ADSL as backup.
 ```
 
 ## [Dishy Placement](./placement/)
