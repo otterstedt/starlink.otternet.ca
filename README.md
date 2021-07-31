@@ -85,8 +85,14 @@ Same place, new mounting. Metal pole with the [Starlink pipe adapter](https://sh
     * Obstructed: 28 seconds
     * Other Outages: 40 seconds
 
+- 2021-07-30T23:00:00 Last 12 Hours
+    * Obstructed: 36 seconds
+    * Other Outages: 32 seconds
+
 ## Observations
 It seems the dish reset some "knowledge" after reboot. Obstructions went up after restart even though a slightly higher altitude of the Dishy. The obstructions image from the Dishy statistics shows a bit less red obstructions than before.
+
+After the firmware __[e825ab2c-1e21-4e24-bc77-6ffe80e76669.uterm.release](https://docs.google.com/spreadsheets/d/1nsdLZ34VVX1qNVlDlAErzLov-fb_ZWgpYAQJWp_W8ic/edit#gid=383580049)__, the interruptions dropped significantly. The heatmap image of obstructions is no longer available in the dishy GUI. Not sure if it was removed or it doesn't show when there is low impact. The tree tops are still there.
 
 ## Firmware
 
