@@ -30,6 +30,6 @@ WiFi Router with 2 load balanced Virgin Plus ADSL lines.
 
 ### Starlink LAN
 
-WiFi router hooked up to Starlink router as primary WAN. ADSL LAN connected as failover.
-- [ASUS RT-AX58U](https://www.asus.com/ca-en/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AX58U/) Router
+WiFi routers hooked up to Starlink router as primary WAN. ADSL LAN connected as failover.
+- 2 * [ASUS RT-AX58U](https://www.asus.com/ca-en/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AX58U/) Routers (aimeshed)
 - Starlink Router
