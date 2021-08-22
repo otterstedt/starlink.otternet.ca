@@ -99,8 +99,20 @@ After the firmware __[e825ab2c-1e21-4e24-bc77-6ffe80e76669.uterm.release](https:
 
 The obstruction image came back 2021-08-01, with expected obstructions every 53 minutes. Before it has been between 9-29 minutes. Large parts of the largest tree top blocking is white.
 
+## Issues
+
+* 2021-08-21 ~19.00
+    - No Internet, Dishy unreachable. Starlink Router: red light. Manual Power cycle after 45 mins. All went up and Internet is back.
+
 ## Firmware
 
+* __ffbfa775-4438-44aa-8cf8-be2cf0485d9c.uterm.release__
+2021-08-21 02:54:34
+* __04295e41-1659-4d0e-bf7a-3e5793aa930b.uterm.release__
+2021-08-17 03:19:15
+    - Very few drops. Dishy usually says no interruptions last 12h. Still a few reported when querying the API. Seems to almost have no issues with a big tree that is still standing.
+* __2f1e0cbf-f2ab-499e-a515-6dd702e23d0c.uterm.release__
+2021-08-07 02:34:08
 * __e825ab2c-1e21-4e24-bc77-6ffe80e76669.uterm.release__ 2021-07-28 02:57:59
     - Interruptions dropped significantly
 * __6390f89c-448c-4fe6-8e1c-14708993ef7c.uterm.release__ 2021-07-26 18:41:54
